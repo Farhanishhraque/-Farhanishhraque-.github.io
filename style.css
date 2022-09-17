@@ -1,4 +1,30 @@
-body{
-    background-color: green;
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
+li {
+    display: inline;
+}
+body {background-color: green;}
+p{font-style:"Arial";}
+
+</style>
+</head>
+<body>
+
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="Cs.html">Digital Portfolio</a></li>
+<li><a href="Class.html">Classes</a></li>
+<li><a href="IP.html">ISP</a></li>
+</ul>
+
+
+</body>
+</html>
